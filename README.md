@@ -219,7 +219,7 @@ Since LLM-generated outputs may vary across executions, the robustness benchmark
 
 ## Streamlit application
 
-**Streamlit Cloud App link:** Click here
+**Streamlit Cloud App link:** [Click here](https://ai-meeting-notes-analyzer.streamlit.app/)
 
 
 The Streamlit application provides three tabs.
